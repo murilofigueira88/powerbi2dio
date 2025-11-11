@@ -1,1 +1,1 @@
-# powerbi2dio
+Contém os dois relatórios do desafio dio. Obs : no segundo relatório foi utilizado o gráfico de linhas inves do gráfico de radarn pois o meu power bi não está permintindo baixa-lo sem efetuar loggin na conta Microsoft,
